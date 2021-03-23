@@ -1,2 +1,2 @@
 # eCommerce
- Intro to MERN through a functional store
+ Intro to MERN through a functional store.
