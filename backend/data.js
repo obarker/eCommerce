@@ -65,6 +65,17 @@ export default {
         rating: 5,
         numReviews: 101,
         countInStock: 9,
+    },
+    {
+        _id:'7',
+        name: 'Carls Pants',
+        category: 'Pants',
+        image: '/images/d1.jpg',
+        price:3,
+        brand: 'Nuts',
+        rating: 3,
+        numReviews: 11,
+        countInStock: 4,
     }
 
 
